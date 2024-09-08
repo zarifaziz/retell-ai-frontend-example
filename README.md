@@ -2,7 +2,7 @@
 
 This is a demo Retell AI Web Call Frontend setup with Next.js project for handling calls.
 
-![Example Frontend](frontend-example.png)
+![Example Frontend](data/frontend-example.png)
 
 ## Getting Started
 
